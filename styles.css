@@ -1,0 +1,97 @@
+.header {
+	height: 50px;
+	background-color:skyblue;
+	border: 1px dotted;
+	border-color:black;
+	font-size: 2;
+	text-align: right;
+	margin: 0;
+	padding: 0;
+}
+.body{
+	border: 1px solid black;
+}
+
+.logo{
+	height: 50px;
+	width: 50px;
+	image
+}
+
+.howtodog{
+	width: 50px;
+	columns: 3;
+	text-align: right;
+
+}
+
+.header {
+	text-align: left;
+	text
+}
+.section1{
+	width: 100%;
+	text-align: center;
+}
+.dog1{
+	text-align: center;
+}
+.section2{
+
+}
+.sitedogs {
+	text-align: center;
+}
+
+.backgroundimage{
+	max-width: 100%;
+
+}
+
+.dog1{
+	border-radius: 50% 50% 50% 50%;
+	border: 3px solid #048eaa;
+	height: 220px;
+	width: 220px;
+
+}
+
+.dog2{
+	border-radius: 50% 50% 50% 50%;
+	border: 3px solid #048eaa;
+}
+
+.dog3{
+	border-radius: 50% 50% 50% 50%;
+	border: 3px solid #048eaa;
+	height: 220px;
+	width: 220px;
+}
+
+.dog4{
+	border-radius: 50% 50% 50% 50%;
+	border: 3px solid #048eaa;
+	height: 220px;
+	width: 220px;
+}
+.footer {
+	background-color: #048eaa;
+	height: 150px;
+	column-width: 50px;
+	list-style-type: none;
+
+}
+.dogimages{
+	columns: 3;
+}
+.dogtext{
+	columns: 3;
+	column-width: 200px;
+}
+
+
+*{
+	padding: 0;
+	margin: 0;
+	font: open sans;
+}
